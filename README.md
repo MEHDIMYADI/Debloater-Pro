@@ -1,4 +1,4 @@
-﻿# DebloaterPro - Windows Optimization Tool
+﻿# Debloater Pro - Windows Optimization Tool
 
 ![DebloaterPro Logo](Assets/DebloaterPro.png)
 
@@ -51,7 +51,7 @@ DebloaterPro is a comprehensive Windows optimization tool that helps you remove 
 
 ## Usage
 
-1. Launch DebloaterPro
+1. Launch Debloater Pro
 2. Select the module you want to use from the navigation panel
 3. Review the options and make your selections
 4. Click "Apply" to execute changes
