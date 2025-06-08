@@ -1,8 +1,8 @@
 ﻿# Debloater Pro - Windows Optimization Tool
 
-![DebloaterPro Logo](Assets/DebloaterPro.png)
+![Debloater Pro Logo](Assets/DebloaterPro.png)
 
-DebloaterPro is a comprehensive Windows optimization tool that helps you remove bloatware, enhance privacy, manage services, apply system tweaks, and perform maintenance tasks with ease.
+Debloater Pro is a comprehensive Windows optimization tool that helps you remove bloatware, enhance privacy, manage services, apply system tweaks, and perform maintenance tasks with ease.
 
 ## Features
 
